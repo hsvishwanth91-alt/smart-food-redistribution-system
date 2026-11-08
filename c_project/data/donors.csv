@@ -1,0 +1,5 @@
+donor_id,name,organization,contact,email,address,registered_date,total_donations,total_weight,is_active
+DNR-101,Sunrise Bakery,Sunrise Food Corp,+1-555-0191,contact@sunrise.org,42 Market St,2026-10-01,12,180.50,1
+DNR-102,Golden Harvest Farms,Agri-Coop Ltd,+1-555-0192,info@goldenfarms.com,88 Valley Rd,2026-10-05,25,620.00,1
+DNR-103,Metro Supermarket,Metro Retail Inc,+1-555-0193,csr@metroretail.com,101 Grand Ave,2026-10-10,8,310.00,1
+DNR-104,City Central Kitchen,Hospitality Group,+1-555-0194,kitchen@citycentral.org,12 Main St,2026-10-15,40,950.00,1

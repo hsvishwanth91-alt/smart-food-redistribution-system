@@ -1,0 +1,5 @@
+recipient_id,org_name,contact_person,phone,email,address,beneficiaries,dietary,requests_made,fulfilled,verified
+RCP-201,Hope Community Shelter,Sarah Jenkins,+1-555-0301,hope@shelter.org,500 Elm St,85,Nut-free Halal,14,12,1
+RCP-202,Saint Mary Family Mission,Father Paul,+1-555-0302,stmary@mission.org,720 Pine Ave,120,Vegetarian options,20,18,1
+RCP-203,Youth Care Centre,David Zhang,+1-555-0303,contact@youthcare.org,330 Oak Blvd,45,Standard,6,6,1
+RCP-204,Elderly Care Haven,Elena Rostova,+1-555-0304,haven@eldercare.org,910 Maple Rd,60,Low Sodium Soft foods,10,8,1

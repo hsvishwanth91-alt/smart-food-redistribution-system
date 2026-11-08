@@ -1,0 +1,67 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "type": "shell",
+      "label": "C/C++: Build Smart Food Redistribution (Makefile)",
+      "command": "make",
+      "args": ["all"],
+      "options": {
+        "cwd": "${workspaceFolder}"
+      },
+      "problemMatcher": ["$gcc"],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "detail": "Compiles all modular C source files into bin/food_redistribution using GCC."
+    },
+    {
+      "type": "shell",
+      "label": "C/C++: Direct GCC Compile (Single Command)",
+      "command": "gcc",
+      "args": [
+        "-std=c11",
+        "-Wall",
+        "-Wextra",
+        "-pedantic",
+        "-D_POSIX_C_SOURCE=200809L",
+        "-D_GNU_SOURCE",
+        "-Iinclude",
+        "src/main.c",
+        "src/donor.c",
+        "src/donation.c",
+        "src/recipient.c",
+        "src/request_queue.c",
+        "src/priority_queue.c",
+        "src/hash_table.c",
+        "src/allocation.c",
+        "src/distribution.c",
+        "src/expiry.c",
+        "src/analytics.c",
+        "src/audit.c",
+        "src/backup.c",
+        "src/search.c",
+        "src/demo.c",
+        "src/utils.c",
+        "-o",
+        "bin/food_redistribution"
+      ],
+      "options": {
+        "cwd": "${workspaceFolder}"
+      },
+      "problemMatcher": ["$gcc"],
+      "group": "build"
+    },
+    {
+      "type": "shell",
+      "label": "Clean Build Artifacts",
+      "command": "make",
+      "args": ["clean"],
+      "options": {
+        "cwd": "${workspaceFolder}"
+      },
+      "problemMatcher": []
+    }
+  ]
+}

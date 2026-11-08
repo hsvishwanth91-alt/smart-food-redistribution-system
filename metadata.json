@@ -1,0 +1,6 @@
+{
+  "name": "Smart Food Redistribution System - Professional DSA Edition",
+  "description": "Enterprise-grade menu-driven C application and interactive DSA suite for smart food redistribution, multi-donation matching, priority queues, expiry tracking, and audit logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,6 @@
+audit_id,date,time,op_type,record_id,description,user
+AUD-90001,2026-11-06,09:15:00,0,DNR-101,"Donor Sunrise Bakery registered",Admin
+AUD-90002,2026-11-06,09:30:00,1,DON-501,"Donation 50 pcs Artisan Bread registered",Admin
+AUD-90003,2026-11-06,10:00:00,3,RCP-201,"Recipient Hope Shelter registered",Admin
+AUD-90004,2026-11-06,10:15:00,4,REQ-305,"Request 50 pcs Bakery bread enqueued",Admin
+AUD-90005,2026-11-06,14:30:00,5,DIS-10001,"Allocated 20 pcs bread from DON-501 to REQ-305",Operator

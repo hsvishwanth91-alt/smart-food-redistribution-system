@@ -1,0 +1,6 @@
+request_id,recipient_id,category,requested_qty,fulfilled_qty,remaining_qty,unit,priority,req_date,required_by,status,notes
+REQ-301,RCP-201,0,25.00,0.00,25.00,0,4,2026-11-07,2026-11-10,0,Urgent grain staples needed for 85 shelter residents
+REQ-302,RCP-202,1,30.00,0.00,30.00,2,3,2026-11-07,2026-11-08,0,Evening dinner distribution
+REQ-303,RCP-204,3,40.00,0.00,40.00,0,2,2026-11-07,2026-11-12,0,Fresh fruit for elderly residents
+REQ-304,RCP-203,5,50.00,0.00,50.00,2,1,2026-11-07,2026-11-15,0,Non-perishable pantry reserve
+REQ-305,RCP-201,4,50.00,20.00,30.00,3,1,2026-11-06,2026-11-09,1,Breakfast bread supply

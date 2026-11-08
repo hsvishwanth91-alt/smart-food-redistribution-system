@@ -1,0 +1,2 @@
+dist_id,req_id,donation_id,recipient_id,qty,unit,date,time,status,is_cancelled,reason
+DIS-10001,REQ-305,DON-501,RCP-201,20.00,3,2026-11-06,14:30:00,0,0,
